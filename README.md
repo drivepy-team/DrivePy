@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/da253420-a327-46ce-a620-4125cfdc0209)
+
 # DrivePy
 DrivePy (Data-Driven Powertrain Modelling in Python) is a cutting-edge framework for simulating and analyzing powertrain systems using advanced data-driven methodologies.
 
